@@ -1,4 +1,4 @@
-### Olá! Sou Clara Manhães
+### Olá! Sou Clara Manhaes
 **Inovação Aberta | Saúde Preditiva | Economia & Biociências**
 
 Atuo na interseção entre biociências, economia e tecnologia, estruturando soluções orientadas a dados e biossensores.Meu foco é traduzir pesquisas biomédicas complexas em produtos viáveis que mitiguem desperdícios, reduzam custos operacionais e melhorem desfechos clínicos.
